@@ -1,58 +1,60 @@
- - Ecommerce website
-It is clone of  Ecommerce website with all basic functionalities of Ecommerce website.
+# E-Learning Website using HTML5, CSS3, Bootstrap5 and JavaScript 
 
-Technologies Used
-HTML
-CSS
-JavaScript
-data-os Animation Library
-dummyjson Fake API
-Features
-Categories: The home page displays images of different categories such as shoes, clothes, perfumes, etc.
-Dynamic Content: Upon selecting a category, relevant products are shown.
-Product Details: Clicking on a product displays its detailed description and additional information.
-Add to Cart: Users can add products directly to their cart.
-Cart: The cart displays the items, their individual prices, and the total price of all products in the cart.
-Search: A search bar allows users to search for specific products.
-Demo
-https://github.com/Abhishekpatel19/e-commerce
+![E-Learning Website](preview.jpg)
 
-Video
-Video Demo
+The project involves the creation of an e-learning website using HTML, CSS, Bootstrap 5, and JavaScript. The website aims to provide a user-friendly and responsive platform for learners to access educational content. 
 
-Installation
-Clone the repository: git clone https://github.com/Abhishekpatel19/e-commerce
-)
-Open the project directory: cd Ecommerce-website
-Open the index.html file in your preferred web browser.
-Usage
-Download the code from repo
-Navigate to index.html file in root directory or index.html file in html folder.
-double click or open in any browser to launch the website
-Contributing
-If you want to contribute or colloborate or want to seek any services, guidence or help connect me through any channel.
 
-Connect with me
-Facebook LinkedIn GitHub
+## Introduction
 
-Keywords:
-Ecommerce website
-HTML
-CSS
-JavaScript
-Data-os animation library
-Dummyjson fake API
-Product categories
-Product images
-Cart functionality
-Product details
-Add to cart
-Search functionality
-Responsive design
-Web development
-User interface
-User experience
-Online shopping
-Website design
-Product catalog
-Shopping cart
+Secret Coder is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
+
+## Features
+
+- Responsive design using Bootstrap 5.
+- Structured course catalog with detailed descriptions.
+- Interactive lessons.
+- User can register and login.
+- User authentication for personalized learning experiences.
+- Instructor application form.
+- User can also contact us.
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have the following prerequisites:
+
+- Web browser (e.g., Chrome, Firefox, Safari)
+- Text editor (e.g., Visual Studio Code, Sublime Text)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/keerti-1924/E-Learning-Website-HTML-CSS.git
+
+2. Open the project in your preferred text editor.
+3. Launch the `index.html` file in a web browser.
+
+## Technologies Used
+
+- HTML
+- CSS
+- Bootstrap 5
+- JavaScript
+
+📱 Moreover, I've ensured that the website is fully responsive on all screens, making it accessible and user-friendly across various devices. 📱💡
+
+## Contributing 
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
+
+## Show your support 
+
+Give a ⭐️ if you like this project!
+
+
+## License
+
+This project is **free to use** and does not contains any license.
