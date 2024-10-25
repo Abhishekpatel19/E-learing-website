@@ -15,13 +15,14 @@ Add to Cart: Users can add products directly to their cart.
 Cart: The cart displays the items, their individual prices, and the total price of all products in the cart.
 Search: A search bar allows users to search for specific products.
 Demo
-https://sajidbhatti786.github.io/Ecommerce-website/html/index.html
+https://github.com/Abhishekpatel19/e-commerce
 
 Video
 Video Demo
 
 Installation
-Clone the repository: git clone https://github.com/SajidBhatti786/Ecommerce-website.git
+Clone the repository: git clone https://github.com/Abhishekpatel19/e-commerce
+)
 Open the project directory: cd Ecommerce-website
 Open the index.html file in your preferred web browser.
 Usage
